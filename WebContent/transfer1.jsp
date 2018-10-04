@@ -95,7 +95,7 @@ var sds = document.getElementById("dum");
 
 <div id="navigation">
     <ul>
-    <li><a href="create.html">NEW ACCOUNT</a></li>
+    <li><a href="create.html">MY ACCOUNT</a></li>
     <li><a href="balance1.jsp">BALANCE</a></li>
     <li><a href="deposit1.jsp">DEPOSIT</a></li>
     <li><a href="withdraw1.jsp">WITHDRAW</a></li>
